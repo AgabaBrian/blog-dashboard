@@ -18,7 +18,7 @@
     "body-parser": "^1.20.3",
     "core-js": "^3.25.3",
     "express": "^4.21.1",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.12.4",
     "tailwindcss": "^3.4.14",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
